@@ -1,0 +1,1 @@
+obj_game.enemy_amount = 2;
