@@ -2,7 +2,9 @@
 
 # Space Inflators
 
-This game was originally made for the GMTK Game Jam 2024 under 96 hours. This is the first time I ever participated in a game jam. Despite the game's scope being small, It was still very stressful to make on a time limit, but I managed to make the game adhere to (most of) my vision in the end. I learned a lot from this experience and I'm very happy I participated in the jam!
+This game was originally made for the GMTK Game Jam 2024 under 96 hours. This is the first time I ever participated in a game jam. Despite the game's scope being small, It was still very stressful to make on a time limit, but I managed to make the game adhere to (most of) my vision in the end. I learned a lot from this experience and I'm very happy I participated in the jam 😃!
+
+I'm planning to make a better version of this game in the future, but I'll be using the [Godot Engine](https://godotengine.org/) for that instead of GameMaker Studio 2, so I'm making this source code public with a few bonus files. Most of the code here is from the jam, so it's really REALLY bad, but considering I haven't used GameMaker in a long time at the time I made this and that this was my first game jam experience, I'm happy that it even works 😅.
 
 # Compiling Guide
 
